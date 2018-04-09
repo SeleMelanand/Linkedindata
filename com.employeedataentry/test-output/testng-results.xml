@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32" started-at="2018-03-21T06:05:54Z" finished-at="2018-03-21T06:05:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32" started-at="2018-03-21T06:05:54Z" finished-at="2018-03-21T06:05:54Z">
+      <class name="com.employeedataentry.trialjava.Stringcount">
+        <test-method status="PASS" signature="stringcount()[pri:0, instance:com.employeedataentry.trialjava.Stringcount@29774679]" name="stringcount" duration-ms="12" started-at="2018-03-20T23:05:54Z" finished-at="2018-03-20T23:05:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stringcount -->
+      </class> <!-- com.employeedataentry.trialjava.Stringcount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
